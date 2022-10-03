@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BrightDaniel
+- 👋 Hi, I’m @Bright
 - 👀 I’m interested in Building and maintaing web apps, data analysis and unsupervised learning with ML
 - 🌱 I’m currently learning Python, Javascript, C programming Language
 - 💞️ I’m looking to collaborate on Great and innovative projects with Great minds like you, Let's make a difference in our society
